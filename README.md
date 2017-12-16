@@ -20,4 +20,15 @@
             content: "";
             background: initial;
             border-bottom: none;
-        }
+        }
+       
+       
+        
+# 渐变：
+
+       {
+            background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.85));
+             background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.85)); 
+          
+       }
+
